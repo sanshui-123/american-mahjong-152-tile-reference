@@ -1,0 +1,12 @@
+{
+  "totalTiles": 152,
+  "categories": [
+    { "group": "Dots", "ranks": [1,2,3,4,5,6,7,8,9], "copiesPerRank": 4, "total": 36, "associatedDragon": "White Dragon (Soap / 0)" },
+    { "group": "Bams", "ranks": [1,2,3,4,5,6,7,8,9], "copiesPerRank": 4, "total": 36, "associatedDragon": "Green Dragon", "note": "1-Bam is the Bird tile" },
+    { "group": "Craks", "ranks": [1,2,3,4,5,6,7,8,9], "copiesPerRank": 4, "total": 36, "associatedDragon": "Red Dragon" },
+    { "group": "Winds (NEWS)", "tiles": ["North", "East", "West", "South"], "copiesEach": 4, "total": 16 },
+    { "group": "Dragons", "tiles": ["Red Dragon", "Green Dragon", "White Dragon (Soap)"], "copiesEach": 4, "total": 12 },
+    { "group": "Flowers", "copiesTotal": 8, "total": 8, "note": "Interchangeable in American Mahjong; cannot use Jokers in a Flower pair (FF)" },
+    { "group": "Jokers", "copiesTotal": 8, "total": 8, "note": "Valid ONLY in groups of 3+ identical tiles (Pung, Kong, Quint, Sextet); never in Singles or Pairs" }
+  ]
+}

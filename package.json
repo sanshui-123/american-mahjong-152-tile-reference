@@ -1,0 +1,10 @@
+{
+  "name": "american-mahjong-152-tile-reference",
+  "version": "1.0.0",
+  "description": "Structured 152-tile American Mahjong dataset, Joker/Call validator, and table rule cheatsheet.",
+  "type": "module",
+  "bin": {
+    "mahjong-check": "./check-joker-rule.mjs"
+  },
+  "license": "MIT"
+}
